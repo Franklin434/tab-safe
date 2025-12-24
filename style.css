@@ -3,6 +3,7 @@ body{
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;
+    background-color: lightgray;
 }
 
 input{
@@ -10,6 +11,7 @@ input{
     margin-bottom: 5px;
     padding: 10px 15px;
     border: 1px solid #5f9341;
+    background-color: lightgray;
 }
 button{
     color: white;

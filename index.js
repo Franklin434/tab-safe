@@ -30,3 +30,10 @@ function renderLead(){
 //     }
 //     ulEl.innerHTML = listItems
 // }
+
+
+const recepient = "josh"
+const sender = "frank"
+const email = `hey ${recepient}! How is it going? Cheers ${sender}`
+
+console.log(email)
